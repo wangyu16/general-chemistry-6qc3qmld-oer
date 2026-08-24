@@ -5,7 +5,11 @@
   "description": "",
   "keywords": [],
   "discipline": "chemistry",
-  "courseContext": {},
+  "courseContext": {
+    "instructor": "Dr. Yu Wang",
+    "courseNumber": "CHEM107, CHEM108",
+    "department": "Department of Chemistry, University of Louisiana at Lafayette"
+  },
   "license": "CC-BY-4.0",
   "publicRepo": {
     "owner": "wangyu16",
@@ -15,20 +19,6 @@
     "owner": "wangyu16",
     "name": "general-chemistry-6qc3qmld-private"
   },
-  "chapters": [
-    {
-      "slug": "01-getting-started",
-      "title": "Ch01. Introduction"
-    },
-    {
-      "slug": "ch11-intermolecular-forces-liquids-solids",
-      "title": "Ch11. Intermolecular forces, liquids, solids"
-    },
-    {
-      "slug": "ch12-solutions",
-      "title": "Ch12. Solutions"
-    }
-  ],
   "unitTerm": "chapter",
   "themes": {
     "practice": "light-neat-3"
