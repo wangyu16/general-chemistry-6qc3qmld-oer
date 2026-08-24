@@ -21,5 +21,11 @@
   },
   "currentTerm": "2026-fall",
   "currentTermLabel": "CHEM108 - Fall 2026",
-  "createdAt": "2026-08-24T14:13:55.065Z"
+  "createdAt": "2026-08-24T14:13:55.065Z",
+  "chapters": [
+    {
+      "slug": "01-getting-started",
+      "title": "Ch01. Introduction"
+    }
+  ]
 }
