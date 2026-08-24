@@ -15,17 +15,21 @@
     "owner": "wangyu16",
     "name": "general-chemistry-6qc3qmld-private"
   },
+  "chapters": [
+    {
+      "slug": "01-getting-started",
+      "title": "Ch01. Introduction"
+    },
+    {
+      "slug": "ch11-intermolecular-forces-liquids-solids",
+      "title": "Ch11. Intermolecular forces, liquids, solids"
+    }
+  ],
   "unitTerm": "chapter",
   "themes": {
     "practice": "light-neat-3"
   },
   "currentTerm": "2026-fall",
   "currentTermLabel": "CHEM108 - Fall 2026",
-  "createdAt": "2026-08-24T14:13:55.065Z",
-  "chapters": [
-    {
-      "slug": "01-getting-started",
-      "title": "Ch01. Introduction"
-    }
-  ]
+  "createdAt": "2026-08-24T14:13:55.065Z"
 }
