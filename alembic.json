@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "packageId": "pkg-general-chemistry-6qc3qmld",
+  "title": "General Chemistry",
+  "description": "",
+  "keywords": [],
+  "discipline": "chemistry",
+  "courseContext": {},
+  "license": "CC-BY-4.0",
+  "unitTerm": "chapter",
+  "themes": {
+    "practice": "light-neat-3"
+  },
+  "createdAt": "2026-08-24T14:13:55.065Z",
+  "publicRepo": {
+    "owner": "wangyu16",
+    "name": "general-chemistry-6qc3qmld-oer"
+  },
+  "privateRepo": {
+    "owner": "wangyu16",
+    "name": "general-chemistry-6qc3qmld-private"
+  }
+}
